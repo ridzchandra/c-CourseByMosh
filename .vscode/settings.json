@@ -1,0 +1,6 @@
+{
+  "dotnet.defaultSolution": "FundamentalsByMosh.sln",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WoZoFXtucig=",
+  "success": true,
+  "projectFilePath": "/Users/rballa/Desktop/dev/c#CourseByMosh/FundamentalsByMosh/FundamentalsByMosh.csproj",
+  "expectedPackageFiles": [
+    "/Users/rballa/.nuget/packages/roslynator.refactorings/4.12.4/roslynator.refactorings.4.12.4.nupkg.sha512"
+  ],
+  "logs": []
+}

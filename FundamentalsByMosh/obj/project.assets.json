@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Roslynator.Refactorings/4.12.4": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "Roslynator.Refactorings/4.12.4": {
+      "sha512": "aA6sLgYUv46zBLI8764JmDM1H3cqsxm8PVRvaJG/JGRYKbrV6DK51OIaY69b7LHnmc++H03sIjj20SW3CbWD6w==",
+      "type": "package",
+      "path": "roslynator.refactorings/4.12.4",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator.CSharp.Refactorings.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator_Refactorings_Roslynator.CSharp.Workspaces.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator_Refactorings_Roslynator.CSharp.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator_Refactorings_Roslynator.Common.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator_Refactorings_Roslynator.Core.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator_Refactorings_Roslynator.Workspaces.Common.dll",
+        "analyzers/dotnet/roslyn3.8/cs/Roslynator_Refactorings_Roslynator.Workspaces.Core.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator.CSharp.Refactorings.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator_Refactorings_Roslynator.CSharp.Workspaces.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator_Refactorings_Roslynator.CSharp.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator_Refactorings_Roslynator.Common.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator_Refactorings_Roslynator.Core.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator_Refactorings_Roslynator.Workspaces.Common.dll",
+        "analyzers/dotnet/roslyn4.7/cs/Roslynator_Refactorings_Roslynator.Workspaces.Core.dll",
+        "docs/README.md",
+        "icon.png",
+        "roslynator.refactorings.4.12.4.nupkg.sha512",
+        "roslynator.refactorings.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Roslynator.Refactorings >= 4.12.4"
+    ]
+  },
+  "packageFolders": {
+    "/Users/rballa/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/rballa/Desktop/dev/c#CourseByMosh/FundamentalsByMosh/FundamentalsByMosh.csproj",
+      "projectName": "FundamentalsByMosh",
+      "projectPath": "/Users/rballa/Desktop/dev/c#CourseByMosh/FundamentalsByMosh/FundamentalsByMosh.csproj",
+      "packagesPath": "/Users/rballa/.nuget/packages/",
+      "outputPath": "/Users/rballa/Desktop/dev/c#CourseByMosh/FundamentalsByMosh/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/rballa/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Roslynator.Refactorings": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[4.12.4, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

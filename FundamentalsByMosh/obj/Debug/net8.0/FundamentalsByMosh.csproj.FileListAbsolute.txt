@@ -1,0 +1,14 @@
+/Users/rballa/Desktop/dev/c#CourseByMosh/FundamentalsByMosh/obj/Debug/net8.0/FundamentalsByMosh.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rballa/Desktop/dev/c#CourseByMosh/FundamentalsByMosh/obj/Debug/net8.0/FundamentalsByMosh.AssemblyInfoInputs.cache
+/Users/rballa/Desktop/dev/c#CourseByMosh/FundamentalsByMosh/obj/Debug/net8.0/FundamentalsByMosh.AssemblyInfo.cs
+/Users/rballa/Desktop/dev/c#CourseByMosh/FundamentalsByMosh/obj/Debug/net8.0/FundamentalsByMosh.csproj.CoreCompileInputs.cache
+/Users/rballa/Desktop/dev/c#CourseByMosh/FundamentalsByMosh/bin/Debug/net8.0/FundamentalsByMosh
+/Users/rballa/Desktop/dev/c#CourseByMosh/FundamentalsByMosh/bin/Debug/net8.0/FundamentalsByMosh.deps.json
+/Users/rballa/Desktop/dev/c#CourseByMosh/FundamentalsByMosh/bin/Debug/net8.0/FundamentalsByMosh.runtimeconfig.json
+/Users/rballa/Desktop/dev/c#CourseByMosh/FundamentalsByMosh/bin/Debug/net8.0/FundamentalsByMosh.dll
+/Users/rballa/Desktop/dev/c#CourseByMosh/FundamentalsByMosh/bin/Debug/net8.0/FundamentalsByMosh.pdb
+/Users/rballa/Desktop/dev/c#CourseByMosh/FundamentalsByMosh/obj/Debug/net8.0/FundamentalsByMosh.dll
+/Users/rballa/Desktop/dev/c#CourseByMosh/FundamentalsByMosh/obj/Debug/net8.0/refint/FundamentalsByMosh.dll
+/Users/rballa/Desktop/dev/c#CourseByMosh/FundamentalsByMosh/obj/Debug/net8.0/FundamentalsByMosh.pdb
+/Users/rballa/Desktop/dev/c#CourseByMosh/FundamentalsByMosh/obj/Debug/net8.0/FundamentalsByMosh.genruntimeconfig.cache
+/Users/rballa/Desktop/dev/c#CourseByMosh/FundamentalsByMosh/obj/Debug/net8.0/ref/FundamentalsByMosh.dll
