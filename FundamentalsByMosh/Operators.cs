@@ -2,7 +2,7 @@ namespace Operators
 {
   class Program
   {
-    static void Main(string[] args)
+    static void Main4(string[] args)
     {
       // Arithmetic Operators:
       int a = 10;
@@ -11,7 +11,7 @@ namespace Operators
       Console.WriteLine(a - b); // 7
       Console.WriteLine(a * b); // 30
       Console.WriteLine(a / b); // 3 because both are integers, so the result will be an integer.
-      Console.WriteLine((float) a /  b); // 3.333333 because we casted a to a float.
+      Console.WriteLine((float) a / b); // 3.333333 because we casted a to a float. We just need to cast one of the operands to a float to get a float result.
       Console.WriteLine(a % b); // 1
 
       // Comparison Operators:

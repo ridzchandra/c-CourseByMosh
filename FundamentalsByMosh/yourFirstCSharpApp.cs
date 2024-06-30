@@ -3,7 +3,6 @@
 // In .NET we have this concept of solution `.sln` which has one or more projects. In a very simple app, your solution only has only one project. But as your project grows, you might have multiple projects each responsible for a different thing within a single solution. '
 // In this solution "c#CourseByMosh.sln" we only have one project "FundamentalsByMosh" which is a console application.
 
-// See https://aka.ms/new-console-template for more information
 // System namespace contains fundamental types and base classes that define commonly-used value and reference data types, events and event handlers, interfaces, attributes, and processing exceptions. Basically, all the utility classes and primitive types are in this namespace.
 // Install Roslynator.Refactorings NuGet package to get more refactoring options in VS code like in Visual Studio. Run "dotnet add package Roslynator.Refactorings" in your project directory to install it.
 // Once installed reload your developer window and you can see the refactoring options in the context menu by using the shortcut Ctrl + . or right-clicking on the code.
