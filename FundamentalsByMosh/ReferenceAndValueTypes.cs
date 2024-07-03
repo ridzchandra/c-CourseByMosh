@@ -44,7 +44,7 @@ namespace FundamentalsByMosh
     {
       human.Age += 10;
     }
-    static void Main(string[] args)
+    static void Main10(string[] args)
     {
       var referenceAndValueTypes = new ReferenceAndValueTypes();
       referenceAndValueTypes.Run();
