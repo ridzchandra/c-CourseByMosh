@@ -68,7 +68,7 @@ c:\projects\{project2}\{folder2}";
       Console.WriteLine(str.Replace("World", "C#")); // Hello C#
       Console.WriteLine(str.Replace('o', 'O')); // HellO WOrld
       Console.WriteLine(str.Remove(5)); // Hello
-      Console.WriteLine(str.Remove(5, 3)); // Hello World
+      Console.WriteLine(str.Remove(5, 3)); // Hellorld
     }
     static void Main8(string[] args)
     {
