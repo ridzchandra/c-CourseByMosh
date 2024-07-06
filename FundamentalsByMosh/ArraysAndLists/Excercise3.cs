@@ -9,17 +9,17 @@ public class Excercise3
     {
       if (i == 1)
       {
-        System.Console.WriteLine("Please enter 5 unique numbers one by one:");
+        Console.WriteLine("Please enter 5 unique numbers one by one:");
       }
       else
       {
-        System.Console.WriteLine("Please enter the number:");
+        Console.WriteLine("Please enter the number:");
       }
 
       var input = Convert.ToInt32(Console.ReadLine());
       if (numbers.Contains(input))
       {
-        System.Console.WriteLine("You've already entered this number earlier! Please retry.");
+        Console.WriteLine("You've already entered this number earlier! Please retry.");
         i--;
         continue;
       }
@@ -30,6 +30,6 @@ public class Excercise3
     }
 
     numbers.Sort();
-    System.Console.WriteLine($"Here are the numbers you've entered: {string.Join(", ", numbers)}");
+    Console.WriteLine($"Here are the numbers you've entered: {string.Join(", ", numbers)}");
   }
 }

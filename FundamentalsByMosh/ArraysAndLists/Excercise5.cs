@@ -1,4 +1,4 @@
-﻿namespace FundamentalsByMosh;
+﻿namespace FundamentalsByMosh.ArraysAndLists;
 
 public class Excercise5
 {
