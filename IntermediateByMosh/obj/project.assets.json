@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Amazon/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Amazon.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Amazon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Amazon/1.0.0": {
+      "type": "project",
+      "path": "../Amazon/Amazon.csproj",
+      "msbuildProject": "../Amazon/Amazon.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Amazon >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/rballa/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/rballa/Desktop/dev/c#CourseByMosh/IntermediateByMosh/IntermediateByMosh.csproj",
+      "projectName": "IntermediateByMosh",
+      "projectPath": "/Users/rballa/Desktop/dev/c#CourseByMosh/IntermediateByMosh/IntermediateByMosh.csproj",
+      "packagesPath": "/Users/rballa/.nuget/packages/",
+      "outputPath": "/Users/rballa/Desktop/dev/c#CourseByMosh/IntermediateByMosh/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/rballa/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/rballa/Desktop/dev/c#CourseByMosh/Amazon/Amazon.csproj": {
+              "projectPath": "/Users/rballa/Desktop/dev/c#CourseByMosh/Amazon/Amazon.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

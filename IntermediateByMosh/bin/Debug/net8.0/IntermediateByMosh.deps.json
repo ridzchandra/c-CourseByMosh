@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IntermediateByMosh/1.0.0": {
+        "dependencies": {
+          "Amazon": "1.0.0"
+        },
+        "runtime": {
+          "IntermediateByMosh.dll": {}
+        }
+      },
+      "Amazon/1.0.0": {
+        "runtime": {
+          "Amazon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntermediateByMosh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amazon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

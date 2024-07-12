@@ -1,0 +1,208 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rballa/Desktop/dev/c#CourseByMosh/IntermediateByMosh.UnitTests/IntermediateByMosh.UnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/rballa/Desktop/dev/c#CourseByMosh/Amazon/Amazon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rballa/Desktop/dev/c#CourseByMosh/Amazon/Amazon.csproj",
+        "projectName": "Amazon",
+        "projectPath": "/Users/rballa/Desktop/dev/c#CourseByMosh/Amazon/Amazon.csproj",
+        "packagesPath": "/Users/rballa/.nuget/packages/",
+        "outputPath": "/Users/rballa/Desktop/dev/c#CourseByMosh/Amazon/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rballa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rballa/Desktop/dev/c#CourseByMosh/IntermediateByMosh.UnitTests/IntermediateByMosh.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rballa/Desktop/dev/c#CourseByMosh/IntermediateByMosh.UnitTests/IntermediateByMosh.UnitTests.csproj",
+        "projectName": "IntermediateByMosh.UnitTests",
+        "projectPath": "/Users/rballa/Desktop/dev/c#CourseByMosh/IntermediateByMosh.UnitTests/IntermediateByMosh.UnitTests.csproj",
+        "packagesPath": "/Users/rballa/.nuget/packages/",
+        "outputPath": "/Users/rballa/Desktop/dev/c#CourseByMosh/IntermediateByMosh.UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rballa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/rballa/Desktop/dev/c#CourseByMosh/IntermediateByMosh/IntermediateByMosh.csproj": {
+                "projectPath": "/Users/rballa/Desktop/dev/c#CourseByMosh/IntermediateByMosh/IntermediateByMosh.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rballa/Desktop/dev/c#CourseByMosh/IntermediateByMosh/IntermediateByMosh.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rballa/Desktop/dev/c#CourseByMosh/IntermediateByMosh/IntermediateByMosh.csproj",
+        "projectName": "IntermediateByMosh",
+        "projectPath": "/Users/rballa/Desktop/dev/c#CourseByMosh/IntermediateByMosh/IntermediateByMosh.csproj",
+        "packagesPath": "/Users/rballa/.nuget/packages/",
+        "outputPath": "/Users/rballa/Desktop/dev/c#CourseByMosh/IntermediateByMosh/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rballa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/rballa/Desktop/dev/c#CourseByMosh/Amazon/Amazon.csproj": {
+                "projectPath": "/Users/rballa/Desktop/dev/c#CourseByMosh/Amazon/Amazon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

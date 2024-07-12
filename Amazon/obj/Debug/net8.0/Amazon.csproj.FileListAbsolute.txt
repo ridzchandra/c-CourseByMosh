@@ -1,0 +1,11 @@
+/Users/rballa/Desktop/dev/c#CourseByMosh/Amazon/bin/Debug/net8.0/Amazon.deps.json
+/Users/rballa/Desktop/dev/c#CourseByMosh/Amazon/bin/Debug/net8.0/Amazon.dll
+/Users/rballa/Desktop/dev/c#CourseByMosh/Amazon/bin/Debug/net8.0/Amazon.pdb
+/Users/rballa/Desktop/dev/c#CourseByMosh/Amazon/obj/Debug/net8.0/Amazon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rballa/Desktop/dev/c#CourseByMosh/Amazon/obj/Debug/net8.0/Amazon.AssemblyInfoInputs.cache
+/Users/rballa/Desktop/dev/c#CourseByMosh/Amazon/obj/Debug/net8.0/Amazon.AssemblyInfo.cs
+/Users/rballa/Desktop/dev/c#CourseByMosh/Amazon/obj/Debug/net8.0/Amazon.csproj.CoreCompileInputs.cache
+/Users/rballa/Desktop/dev/c#CourseByMosh/Amazon/obj/Debug/net8.0/Amazon.dll
+/Users/rballa/Desktop/dev/c#CourseByMosh/Amazon/obj/Debug/net8.0/refint/Amazon.dll
+/Users/rballa/Desktop/dev/c#CourseByMosh/Amazon/obj/Debug/net8.0/Amazon.pdb
+/Users/rballa/Desktop/dev/c#CourseByMosh/Amazon/obj/Debug/net8.0/ref/Amazon.dll
